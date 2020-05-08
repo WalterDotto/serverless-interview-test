@@ -1,0 +1,21 @@
+{
+  "name": "interview-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.672.0",
+    "jest": "^26.0.1",
+    "postgresql-easy": "^1.2.5"
+  },
+  "devDependencies": {
+    "offline": "0.0.1",
+    "serverless-offline": "^6.1.5"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
